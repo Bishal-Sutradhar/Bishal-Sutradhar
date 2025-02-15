@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **CSS, HTML, C**
 
-- 📫 How to reach me **bishalsutradhar2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
