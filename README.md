@@ -48,7 +48,7 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1BFEmNTnVi" target="_blank">
+  <a href="https://www.facebook.com/bishalsutradhar.bs" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;
