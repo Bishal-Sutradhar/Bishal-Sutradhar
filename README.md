@@ -107,6 +107,14 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
 
 ---
 
+# 📅 Bishal's Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishal-Sutradhar&theme=react-dark&area=true&hide_border=true" width="850" alt="Contribution Graph" />
+</div>
+
+---
+
 <!-- 🐍 Snake Game Animation Section 🐍 -->
 # 🐍 Contribution Snake Game
 
