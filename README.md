@@ -57,7 +57,7 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/@S41853Bishal" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="42" alt="X" />
+  <img src="https://img.shields.io/badge/-%20-000?style=flat&logo=x&logoColor=white" width="43" height="41" alt="X Profile">
   </a>
 </p> 
 
