@@ -22,6 +22,15 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
 
 ---
 
+## 🌱 Currently Learning
+
+- React Advanced Concepts
+- Node.js & Express
+- MongoDB Aggregation
+- Machine Learning Fundamentals
+
+---
+
 ## 🚀 Featured Projects
 
 🔹 **Image Gallery App** | React • Axios • Tailwind CSS
