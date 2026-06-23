@@ -1,18 +1,122 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bishal-Sutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="Bishal-Sutradhar" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BFEmNTnVi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bishalsutradhar.bs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-sutradhar-bs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](http://x.com/@S41853Bishal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalsutradhar2006@gmail.com) 
+# 💫 Hi 👋, I'm Bishal Sutradhar
+**A passionate Full-Stack developer from India**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=04d5db&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+%2F+ML+Enthusiast;Next+Gen+Technologies;Love+Solving+Real+World+Problems"/>
+</p>
+
+Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project or Anything Else.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in **Computer Science and Engineering**
+- 💻 Passionate about **Full-Stack Development, Software Engineering, and AI/ML**  
+- 🧠 Learning and building **Full-Stack applications using the MERN stack**
+- 📊 Interested in **data analysis and visualization with Python**  
+- 🧩 Passionate about **untangling complex problems and engineering solutions with next-gen technologies**  
+- 🔍 Currently exploring: **Backend Development** 
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Image Gallery App** | React • Axios • Tailwind CSS
+
+🔹 **QR Code Generator** | HTML • CSS • JavaScript
+
+🔹 **Calculator App** | JavaScript
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/bishal-sutradhar-bs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1BFEmNTnVi" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/bishalsutradhar.bs" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/@S41853Bishal" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="42" alt="X" />
+  </a>
+</p> 
+
+
+---
+
+# 💻 Tech Stack & Tools:
+
+<p align='left'>
+  
+  <img src="https://skillicons.dev/icons?i=c" width="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS" />
+   <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
+  
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
+  
+</p>
+
+---
+
 # 📊 GitHub Stats:
+
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=Bishal-Sutradhar&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Bishal-Sutradhar&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bishal-Sutradhar&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
+---
+
+<!-- 🐍 Snake Game Animation Section 🐍 -->
+# 🐍 Contribution Snake Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bishal-Sutradhar/Bishal-Sutradhar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bishal-Sutradhar/Bishal-Sutradhar/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Bishal-Sutradhar/Bishal-Sutradhar/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Bishal-Sutradhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+</div>
