@@ -14,10 +14,9 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Computer Science and Engineering**
-- 💻 Passionate about **Full-Stack Development, Software Engineering, and AI/ML**  
-- 🧠 Learning and building **Full-Stack applications using the MERN stack**
-- 📊 Interested in **data analysis and visualization with Python**  
-- 🧩 Passionate about **untangling complex problems and engineering solutions with next-gen technologies**  
+- 💻 Passionate about **Full-Stack Development**  
+- 🧠 Learning and building **Full-Stack MERN applications**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🔍 Currently exploring: **Backend Development** 
 
 ---
@@ -56,7 +55,7 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/@S41853Bishal" target="_blank">
+  <a href="https://x.com/@BishalS_bs" target="_blank">
   <img src="https://img.shields.io/badge/-%20-000?style=flat&logo=x&logoColor=white" width="43" height="41" alt="X Profile">
   </a>
 </p> 
