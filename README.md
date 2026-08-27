@@ -78,6 +78,8 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
   <img src="https://skillicons.dev/icons?i=vite" width="48" alt="Vite" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS" />
    <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+      <img src="https://skillicons.dev/icons?i=figma" width="48" />
+   
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" />
