@@ -68,6 +68,7 @@ Email Me 👉 ✉️ **bishalsutradhar2006@gmail.com** For Collaboration/Project
 <p align='left'>
   
   <img src="https://skillicons.dev/icons?i=c" width="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" />
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
